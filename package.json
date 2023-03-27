@@ -1,8 +1,8 @@
 {
-  "name": "platzi-store",
+  "name": "store",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Brian Bentancourt",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
